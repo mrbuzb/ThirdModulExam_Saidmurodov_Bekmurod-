@@ -1,0 +1,6 @@
+@G10_SAYITMURODOV_BEKMUROD_V_HostAddress = http://localhost:5146
+
+GET {{G10_SAYITMURODOV_BEKMUROD_V_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
